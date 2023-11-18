@@ -1,0 +1,9 @@
+Instance Structure
+
+The first line contains the following information: NODE NUMBERS INCLUDING THE DEPOT
+
+The second line contains the following information: RISK THRESHOLD
+
+The third line contains the following information: DEMAND VECTOR FOR ALL NODES INCLUDING THE DEPOT
+
+As of the fourth line the following information are stored: NODE COORDINATES [x y]
